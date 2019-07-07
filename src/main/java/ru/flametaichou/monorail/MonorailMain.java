@@ -18,6 +18,8 @@ public class MonorailMain {
 	public static Block railroadlamp;
 	public static Block railroadrails;
 	public static Block railroadslab;
+	public static Block railroadcobbleblock;
+
 
 	public static CreativeTabs tabMonorail = new TabMonorail("monorail");
 	
@@ -38,6 +40,9 @@ public class MonorailMain {
 
 		railroadslab = new RailRoadSlab();
 		GameRegistry.registerBlock(railroadslab, "railroadslab");
+
+		railroadcobbleblock = new RailRoadCobbleBlock();
+		GameRegistry.registerBlock(railroadcobbleblock, "railroadcobbleblock");
 
 	}
 	

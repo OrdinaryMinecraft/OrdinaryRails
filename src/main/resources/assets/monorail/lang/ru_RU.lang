@@ -1,0 +1,7 @@
+itemGroup.monorail=Ordinary Rails
+
+tile.railroadblock.name=Блок метро
+tile.railroadstairs.name=Ступеньки метро
+tile.railroadlamp.name=Лампа метро
+tile.railroadrails.name=Рельсы метро
+tile.railroadslab.name=Полублок метро

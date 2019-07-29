@@ -15,7 +15,6 @@ public class RailRoadSlab extends BlockSlab {
         this.setBlockTextureName("monorail:RailRoadBlock");
 
         this.setBlockUnbreakable();
-        this.setHardness(6000000.0F);
         this.setResistance(6000000.0F);
     }
 

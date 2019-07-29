@@ -15,7 +15,6 @@ public class RailRoadCobbleBlock extends Block {
         this.setBlockTextureName("monorail:RailRoadBlock2");
 
         this.setBlockUnbreakable();
-        this.setHardness(6000000.0F);
         this.setResistance(6000000.0F);
     }
 }

@@ -23,6 +23,7 @@ public class RailRoadGlass extends BlockStainedGlass {
         super(Material.glass);
         this.setCreativeTab(MonorailMain.tabMonorail);
         this.setBlockName("railroadglass");
+        this.setStepSound(soundTypeGlass);
         this.setBlockUnbreakable();
         this.setResistance(6000000.0F);
     }

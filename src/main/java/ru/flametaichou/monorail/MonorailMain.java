@@ -8,7 +8,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
 import ru.flametaichou.monorail.blocks.*;
 
-@Mod (modid = "monorail", name = "Ordinary Monorail", version = "1.0")
+@Mod (modid = "monorail", name = "Ordinary Monorail", version = "1.1")
 
 public class MonorailMain {
 

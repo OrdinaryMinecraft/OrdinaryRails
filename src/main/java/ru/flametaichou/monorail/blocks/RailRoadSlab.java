@@ -7,7 +7,7 @@ import ru.flametaichou.monorail.MonorailMain;
 public class RailRoadSlab extends BlockSlab {
 
     public RailRoadSlab() {
-        super(false, Material.rock);
+        super(false, Material.iron);
         this.setBlockName("railroadslab");
         this.setCreativeTab(MonorailMain.tabMonorail);
         this.setLightOpacity(0);

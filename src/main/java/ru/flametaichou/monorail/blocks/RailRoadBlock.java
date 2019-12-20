@@ -7,7 +7,7 @@ import ru.flametaichou.monorail.MonorailMain;
 public class RailRoadBlock extends Block {
 
 	public RailRoadBlock() {
-		super(Material.rock);
+		super(Material.iron);
 		this.setBlockName("railroadblock");
 		this.setCreativeTab(MonorailMain.tabMonorail);
 		this.setStepSound(soundTypeStone);
